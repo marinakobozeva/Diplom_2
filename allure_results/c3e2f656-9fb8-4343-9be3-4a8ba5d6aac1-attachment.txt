@@ -1,0 +1,1 @@
+{'success': True, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZTcxNzI0OWVkMjgwMDAxYjRiOWYyZCIsImlhdCI6MTcyNjQyMDc3MywiZXhwIjoxNzI2NDIxOTczfQ.-Ek5OxWUUBqIkuRuewWSabUHEMY0EAdTEtw30G40w-c', 'refreshToken': 'b17bcab5890327568c7f19daa8cca0aec78a824d0ef30ff68796cac8e61abb1bb239719c129a58b5', 'user': {'email': 'kvlasova@npo.com', 'name': 'Ольга'}}
